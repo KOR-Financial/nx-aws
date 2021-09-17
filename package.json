@@ -53,7 +53,8 @@
     "help": "nx help",
     "workspace-generator": "nx workspace-generator",
     "build:cache": "npx nx build nx-aws-cache",
-    "pack:cache": "npm pack dist/packages/nx-aws-cache"
+    "pack:cache": "cd dist/packages/nx-aws-cache && npm pack && cd ../../..",
+    "publish:cache": "cd dist/packages/nx-aws-cache && npm publish --access=public"
   },
   "dependencies": {
     "aws-sdk": "2.771.0",

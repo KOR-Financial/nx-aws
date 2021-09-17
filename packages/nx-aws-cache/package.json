@@ -1,5 +1,5 @@
 {
-  "name": "@kor/nx-aws-cache",
+  "name": "@kor-financial/nx-aws-cache",
   "version": "1.0.0",
   "description": "AWS S3 Cache plugin for Nx",
   "keywords": [
