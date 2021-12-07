@@ -58,7 +58,7 @@
   },
   "dependencies": {
     "aws-sdk": "2.771.0",
-    "dotenv": "8.2.0",
+    "dotenv": "8.6.0",
     "rxjs": "6.6.3",
     "tar": "6.0.5"
   },
