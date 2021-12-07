@@ -57,7 +57,7 @@
     "publish:cache": "cd dist/packages/nx-aws-cache && npm publish --access=public"
   },
   "dependencies": {
-    "aws-sdk": "2.771.0",
+    "aws-sdk": "2.1029.0",
     "dotenv": "8.2.0",
     "rxjs": "6.6.3",
     "tar": "6.0.5"
